@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-57,
-				-85
+				-215,
+				43
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
+			"indices": [],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				1,
-				77
+				-89,
+				127
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				239,
-				-119
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "left"
+			"name": "up"
 		},
 		{
-			"offsets": [
-				92,
-				-120
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"loop": true,
 			"offsets": [
-				0,
+				49,
 				1
 			],
-			"anim": "idle",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "idle",
+			"name": "left",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				41
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Monster_Assets",
+	"image": "characters/DJRUNreal",
 	"position": [
-		0,
+		-230,
 		0
 	],
-	"healthicon": "spirit-pixel",
+	"healthicon": "drawing-jeffy",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,7 +70,7 @@
 		0
 	],
 	"camera_position": [
-		50,
+		340,
 		150
 	],
 	"sing_duration": 4,
