@@ -1,45 +1,89 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
 			"indices": []
 		},
 		{
 			"offsets": [
-				563,
-				955
+				0,
+				-46
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "lightbeam",
 			"loop": false,
-			"name": "transformation"
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/mom_dad_christmas_assets",
 	"position": [
-		-980,
-		350
+		60,
+		100
 	],
-	"healthicon": "spirit-pixel",
-	"flip_x": true,
+	"healthicon": "senpai-pixel",
+	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		195,
-		0
+		60,
+		100,
+		255
 	],
 	"camera_position": [
-		-20,
-		-210
+		-300,
+		-140
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }

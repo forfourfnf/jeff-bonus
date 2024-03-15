@@ -1,42 +1,9 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-1,
-				41
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-13,
-				139
-			],
-			"anim": "MayonnaiseThrow",
-			"fps": 24,
-			"name": "throw mayo",
-			"indices": []
-		},
-		{
-			"offsets": [
-				97,
-				31
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
-			"offsets": [
-				-1,
-				57
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,19 +13,41 @@
 		},
 		{
 			"offsets": [
-				-1,
-				116
+				-43,
+				-15
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singRIGHT",
 			"indices": [],
-			"name": "up"
+			"name": "right"
 		},
 		{
 			"offsets": [
-				181,
-				-6
+				-3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-13
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,33 +57,99 @@
 		},
 		{
 			"offsets": [
-				3,
-				57
+				5,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-54,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				71,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Inject",
+			"indices": [],
+			"name": "inject"
+		},
+		{
+			"offsets": [
+				-3,
+				-19
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "Knife",
+			"anim": "singLEFTmiss",
 			"loop": false,
-			"name": "knife"
+			"name": "missl"
+		},
+		{
+			"offsets": [
+				5,
+				-92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missd"
+		},
+		{
+			"offsets": [
+				-35,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missr"
+		},
+		{
+			"offsets": [
+				-55,
+				78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missu"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/monsterChristmas",
 	"position": [
-		230,
-		100
+		-80,
+		-190
 	],
-	"healthicon": "senpai-pixel",
-	"flip_x": false,
+	"healthicon": "spooky",
+	"flip_x": true,
 	"healthbar_colors": [
+		76,
 		255,
-		195,
-		0
+		82
 	],
 	"camera_position": [
-		-200,
-		0
+		200,
+		-70
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }

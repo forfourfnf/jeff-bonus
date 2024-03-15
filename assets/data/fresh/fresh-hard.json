@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "junior",
+		"player1": "monster-christmas",
 		"events": [
 			[
 				0,
@@ -98,7 +98,7 @@
 					[
 						"Change Character",
 						"1",
-						"Britknee"
+						"mom-car"
 					],
 					[
 						"Change Scroll Speed",
@@ -148,7 +148,7 @@
 					[
 						"Change Character",
 						"0",
-						"jeffy-confused-player"
+						"gf-christmas"
 					]
 				]
 			],
@@ -168,7 +168,7 @@
 					[
 						"Change Character",
 						"0",
-						"jeffy-happy-player"
+						"gf-pixel"
 					]
 				]
 			],
@@ -6967,10 +6967,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "cody",
+		"player2": "parents-christmas",
 		"player3": null,
-		"song": "the love potion",
-		"stage": "boobastage",
+		"song": "Fresh",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 133,

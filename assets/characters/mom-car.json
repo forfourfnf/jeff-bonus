@@ -2,132 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				-68,
-				72
-			],
-			"loop": false,
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Pico NOTE LEFT miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				62,
-				64
-			],
-			"loop": false,
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "Pico Note Right Miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				210,
-				-28
-			],
-			"loop": false,
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Pico Down Note MISS",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-19,
-				67
-			],
-			"loop": false,
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "pico Up note miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-216,
-				230
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"indices": [],
-			"name": "right"
+			"name": "idle"
 		},
 		{
+			"offsets": [
+				168,
+				-32
+			],
 			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l eft"
+		},
+		{
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "",
-			"fps": 24,
-			"name": "",
-			"indices": []
+			"indices": [],
+			"name": ""
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-214,
-				309
+				-11,
+				-77
 			],
-			"anim": "singUP",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "up",
+			"name": "rightg",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-215,
-				247
+				24,
+				-129
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-35,
-				184
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-114,
-				219
+				39,
+				68
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/momCar",
 	"position": [
-		20,
-		300
+		0,
+		-150
 	],
-	"healthicon": "spirit-pixel",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		195,
-		0
+		87,
+		87
 	],
 	"camera_position": [
-		-100,
-		-210
+		0,
+		230
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.7
 }

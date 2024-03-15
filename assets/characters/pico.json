@@ -1,53 +1,31 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				297,
-				330
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Up Miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				222,
-				276
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Down Miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				232,
-				299
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "idle",
 			"indices": [],
-			"name": "Right Miss"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				345,
-				288
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "",
 			"indices": [],
-			"name": "Left Miss"
+			"name": ""
 		},
 		{
 			"offsets": [
-				71,
-				447
+				-36,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
@@ -56,67 +34,56 @@
 			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				192,
-				489
+				-14,
+				243
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		},
 		{
 			"offsets": [
-				65,
-				455
+				71,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-141,
+				117
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				67,
-				535
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				479
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Pico_FNF_assetss",
 	"position": [
-		180,
-		360
+		-130,
+		20
 	],
-	"healthicon": "pico",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		120,
-		0
+		87,
+		87
 	],
 	"camera_position": [
-		-310,
-		-330
+		-10,
+		-180
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 1.3
 }
