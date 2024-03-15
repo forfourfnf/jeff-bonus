@@ -4,26 +4,26 @@
 			"Bopeebo",
 			"dad",
 			[
-				255,
-				180,
-				0
+				46,
+				40,
+				93
 			]
 		],
 		[
 			"Fresh",
-			"dad",
+			"mom",
 			[
 				255,
-				180,
-				0
+				20,
+				20
 			]
 		],
 		[
-			"Dad Battle",
-			"pico",
+			"Philly Nice",
+			"spirit-pixel",
 			[
-				180,
-				40,
+				255,
+				140,
 				0
 			]
 		]
@@ -31,11 +31,11 @@
 	"weekCharacters": [
 		"dad",
 		"bf",
-		""
+		"gf"
 	],
 	"weekBackground": "halloween",
 	"weekBefore": "tutorial",
-	"storyName": "Vs Jeffy",
+	"storyName": "Bonus Songs",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,

@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf-pixel",
+		"player1": "gf-car",
 		"player2": "dad",
 		"notes": [
 			{
@@ -5072,7 +5072,7 @@
 				]
 			]
 		],
-		"player3": null,
+		"player3": "gf",
 		"song": "Bopeebo",
 		"validScore": true,
 		"needsVoices": true,

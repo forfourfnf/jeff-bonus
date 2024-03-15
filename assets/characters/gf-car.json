@@ -3,19 +3,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				284,
-				304
+				-1,
+				-2
 			],
-			"anim": "singUP",
+			"anim": "idle",
 			"fps": 24,
-			"name": "up",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				406,
-				232
+				119,
+				-5
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -23,21 +23,21 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				285,
-				247
-			],
 			"loop": false,
+			"offsets": [
+				-34,
+				-11
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "right",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				466,
-				207
+				-12,
+				-3
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -47,32 +47,109 @@
 		{
 			"loop": false,
 			"offsets": [
-				300,
-				237
+				50,
+				92
 			],
-			"anim": "singRIGHT",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "right",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-79
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-79
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-79
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-79
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				277,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				387,
+				-149
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "conf",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				276,
+				-217
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
 			"indices": []
 		}
 	],
+	"no_antialiasing": false,
 	"image": "characters/gfCar",
-	"scale": 0.8,
-	"sing_duration": 4,
-	"healthicon": "spirit-pixel",
 	"position": [
-		320,
-		280
+		0,
+		0
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		0,
+		0
 	],
 	"camera_position": [
-		100,
-		-70
+		0,
+		60
 	],
-	"flip_x": false,
-	"no_antialiasing": false,
-	"healthbar_colors": [
-		255,
-		195,
-		0
-	]
+	"sing_duration": 4,
+	"scale": 1
 }
