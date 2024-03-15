@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "marvin-real",
+		"player1": "mom",
 		"events": [],
-		"gfVersion": "bruh",
+		"gfVersion": "gf",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -6643,10 +6643,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "pj-real",
-		"player3": null,
-		"song": "run!!!",
-		"stage": "Hallway",
+		"player2": "monster",
+		"player3": "gf",
+		"song": "Philly Nice",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 244,

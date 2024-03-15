@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/MarvinRunreal",
+	"image": "characters/Mom_Assets",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "marvin",
+	"healthicon": "dad",
 	"flip_x": true,
 	"healthbar_colors": [
 		255,

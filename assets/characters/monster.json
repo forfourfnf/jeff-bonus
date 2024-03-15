@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DJRUNreal",
+	"image": "characters/Monster_Assets",
 	"position": [
 		-230,
 		0
 	],
-	"healthicon": "drawing-jeffy",
+	"healthicon": "spirit-pixel",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
