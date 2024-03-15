@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				255,
+				180,
+				0
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				255,
+				180,
+				0
+			]
+		],
+		[
+			"Dad Battle",
+			"pico",
+			[
+				180,
+				40,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		""
+	],
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"storyName": "Vs Jeffy",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}

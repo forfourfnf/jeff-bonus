@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Spookeez",
+			"spirit-pixel",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"South",
+			"spirit-pixel",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Monster",
+			"spirit-pixel",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Pico",
+			"spirit-pixel",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Philly Nice",
+			"spirit-pixel",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"parents-christmas",
+		"mom",
+		"pico"
+	],
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"storyName": "Vs. Drawing Jeffy",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}
