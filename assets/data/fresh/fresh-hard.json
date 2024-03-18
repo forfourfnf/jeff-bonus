@@ -108,7 +108,7 @@
 					[
 						"Change Character",
 						"0",
-						"jeffy-happy-player"
+						"gf-pixel"
 					]
 				]
 			],
@@ -358,12 +358,12 @@
 					[
 						"Change Character",
 						"1",
-						"dragon"
+						"pico"
 					],
 					[
 						"Change Character",
 						"0",
-						"jeffy-scared-player"
+						"bf-pixel"
 					]
 				]
 			],
@@ -6965,6 +6965,16 @@
 				"bpm": 133,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 133,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player2": "parents-christmas",
